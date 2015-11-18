@@ -1,3 +1,7 @@
+package br.com.designPatterns.system;
+import br.com.designPatterns.model.Imposto;
+import br.com.designPatterns.model.Orcamento;
+
 
 public class CalculadorDeImposto {
 	

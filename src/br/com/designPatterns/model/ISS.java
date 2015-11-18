@@ -1,3 +1,5 @@
+package br.com.designPatterns.model;
+
 
 public class ISS implements Imposto{
 	

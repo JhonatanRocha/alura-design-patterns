@@ -1,3 +1,4 @@
+package br.com.designPatterns.model;
 
 public class Orcamento {
 	
