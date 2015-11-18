@@ -7,7 +7,7 @@ import br.com.designPatterns.model.Orcamento;
 import br.com.designPatterns.system.CalculadorDeImposto;
 
 
-public class TestaDeImpostos {
+public class TestImpostos {
 	
 	public static void main(String[] args) {
 		Imposto iss = new ISS();
